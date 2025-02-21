@@ -29,6 +29,9 @@
             if (element.tagName.length === 5 && !shouldExclude(element)) {
                 console.log("<---BLOCKED---> Find Ad! <---BLOCKED--->")
                 element.style.display = 'none';
+            } else if (element.id === "customSkin") {
+                console.log("<---BLOCKED---> Find AdSkin! <---BLOCKED--->")
+                element.style.display = 'none';
             }
         }
     }

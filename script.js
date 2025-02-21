@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AdBlock on Pornhub
 // @namespace    https://github.com/AleciMatey/P-AdBlock
-// @version      0.1
+// @version      0.2
 // @description  Block Ads on Pornhub
 // @author       Aleci Matey
 // @match        https://www.pornhub.com/*
